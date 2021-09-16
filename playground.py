@@ -1,14 +1,10 @@
 #!/usr/bin/env python3
-# -*- encoding: utf-8 -*-
+# -*- coding: iso-8859-1 -*-
 
 import sys
 
-reload(sys)
-sys.setdefaultencoding("UTF-8")
-
 with open (sys.argv[1], 'r') as f:
     prot = f.read()
-    prot.decode(encoding='UTF-8')
     for let in prot:
         print let
     f.closed
