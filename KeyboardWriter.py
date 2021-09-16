@@ -57,14 +57,12 @@ scancodes_letters={
 	'7' : 36,
 	'8' : 37,
 	'9' : 38,
-	'ä' : 52,
-	'ö' : 51,
-	'ü' : 47
+	"ä" : 52,
+	"ö" : 51,
+	"ü" : 47
 }
 
 sonderzeichen = {':','(',')','/'}
-
-scancodes_letters.decode('utf-8')
 
 for line in writingtext:
 	for let in line:
