@@ -8,7 +8,7 @@ sys.setdefaultencoding("UTF-8")
 
 with open (sys.argv[1], 'r') as f:
     prot = f.read()
-    prot.decode("UTF-8")
+    prot.decode(encoding='UTF-8')
     for let in prot:
         print let
     f.closed
