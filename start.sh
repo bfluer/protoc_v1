@@ -1,4 +1,3 @@
 #!/bin/bash
 
-sleep 5
-python KeyboardWriter.py protokoll_krank.txt
+python /home/pi/SANWriter/protoc_v1/KeyboardWriter.py /home/pi/SANWriter/protoc_v1/protokoll_krank.txt
