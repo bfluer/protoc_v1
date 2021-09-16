@@ -66,13 +66,11 @@ sonderzeichen = {':','(',')','/'}
 
 for line in writingtext:
 	for let in line:
+		print let
 		write_report(NULL_CHAR*10)
 		if let.isupper() or let in sonderzeichen:
 			cod = scancodes_letters.get(let.lower(), 0)
-			if cod is 0:
-				print let
-			else:
-				write_report(chr(32)+NULL_CHAR+chr(cod)+NULL_CHAR*5)
+			write_report(chr(32)+NULL_CHAR+chr(cod)+NULL_CHAR*5)
 		else:
 			cod = scancodes_letters.get(let, 0)
 			write_report(NULL_CHAR*2+chr(cod)+NULL_CHAR*5)
