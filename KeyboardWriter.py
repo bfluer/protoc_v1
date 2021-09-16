@@ -10,7 +10,7 @@ def write_report(report):
 	with open ('/dev/hidg0', 'rb+') as fd:
 		fd.write(report.encode())
 
-with codecs.open(sys.argv[1], 'r', encoding='utf-8') as f:
+with open(sys.argv[1], 'r') as f:
 	writingtext = f.readlines()
 	f.closed
 
@@ -65,6 +65,7 @@ scancodes_letters={
 sonderzeichen = {':','(',')','/'}
 
 for line in writingtext:
+	line.decode('utf-8')
 	for let in line:
 		write_report(NULL_CHAR*10)
 		if let.isupper() or let in sonderzeichen:
