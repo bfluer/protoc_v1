@@ -11,12 +11,12 @@ Erstbeurteilung des Patienten:
 A: frei
 B: keine pathologischen Atemmuster, keine Atemger<usche, keine Zyanose
 C: RR: xxx/xx, P: xx , Hautfarbe ..., Rekapilarisierungszeit normal/verl<ngert xx Sec
-D: BZ: xxx, keine neurologischen Ausfallserscheinungen // Dreh-/Schwankschwindel // keine Par<sthesien // zeilich, örtlich, zur Person und Situation orientiert
-   Bewusstseinszustand:
-   zeitlich: orientiert // nicht orientiert
-   örtlich: orientiert // nicht orientiert
-   zur Person: orientiert // nicht orientiert
-   zur Situation: orientiert // nicht orientiert
+D: BZ: xxx, keine neurologischen Ausfallserscheinungen // Dreh-/Schwankschwindel // keine Par<sthesien // zeilich, >rtlich, zur Person und Situation orientiert
+Bewusstseinszustand:
+zeitlich: orientiert // nicht orientiert
+>rtlich: orientiert // nicht orientiert
+zur Person: orientiert // nicht orientiert
+zur Situation: orientiert // nicht orientiert
 
 Patient .. kritisch/nicht kritisch ..
 
