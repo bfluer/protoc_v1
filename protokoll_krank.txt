@@ -1,6 +1,6 @@
-vorgefundene Lage:
-Allergien:
-Vorerkrankungen:
+vorgefundene Lage:sitzend gehend stehend Rückenlage Seitenlage Bauchlage
+Allergien: Pollinose Laktoseintoleranz keine
+Vorerkrankungen: art. Hypertonie, Schilddrüsenunterfunktion, Diabetes Typ 1.2 Zn Myokardinfarkt xxxx, Zn Apoplex xxxx,
 laufende Medikation:
 Kollaps beobachtet:
 
