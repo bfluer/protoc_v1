@@ -2,6 +2,7 @@
 # -*- encoding: utf-8 -*-
 
 import sys
+import codecs
 from time import sleep
 
 NULL_CHAR = chr(0)
@@ -9,7 +10,7 @@ def write_report(report):
 	with open ('/dev/hidg0', 'rb+') as fd:
 		fd.write(report.encode())
 
-with open(sys.argv[1], 'r', encoding='utf-8') as f:
+with codecs.open(sys.argv[1], 'r', encoding='utf-8') as f:
 	writingtext = f.readlines()
 	f.closed
 
