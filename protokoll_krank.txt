@@ -1,0 +1,20 @@
+vorgefundene Lage:
+Allergien:
+Vorerkrankungen:
+laufende Medikation:
+Kollaps beobachtet:
+
+Patient xxx , in allen Qualitäten voll orientiert aufgefunden. Er gibt an, ...
+
+Erstbeurteilung des Patienten:
+
+A: frei
+B: keine pathologischen Atemmuster, keine Atemgeräusche, keine Zyanose
+C: RR: xxx/xx, P: xx , Hautfarbe ..., Rekapilarisierungszeit normal/verlängert xx Sec
+D: BZ: xxx, keine neurologischen Ausfallserscheinungen // Dreh-/Schwankschwindel // keine Parästhesien
+E: T: xx,x Grad
+
+L:
+E:
+
+Transport erfolgt mit v.a. xxx auf xxx ohne weitere Komplikationen.
