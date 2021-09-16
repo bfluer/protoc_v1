@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- encoding: utf-8 -*-
+
 scancodes_letters={
 	'a' : 4,
 	'b' : 5,
