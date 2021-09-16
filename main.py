@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+##!/usr/bin/env python3
 
 import subprocess
 
@@ -12,4 +12,5 @@ while(1):
         write_report(NULL_CHAR)
     except:
         continue
-    subprocess.call('sh', '/home/pi/SANWriter/protoc_v1/start.sh')
+    subprocess.call(['sh', '/home/pi/SANWriter/protoc_v1/start.sh'])
+    break
