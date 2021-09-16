@@ -4,5 +4,7 @@
 import sys
 
 with open (sys.argv[1], 'r') as f:
-    print f.read()
+    prot = f.read()
+    for let in prot:
+        print let
     f.closed
