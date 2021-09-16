@@ -9,7 +9,7 @@ def write_report(report):
 	with open ('/dev/hidg0', 'rb+') as fd:
 		fd.write(report.encode())
 
-with open(sys.argv[1], 'r') as f:
+with open(sys.argv[1], 'r', encoding='utf-8', errors='ignore') as f:
 	writingtext = f.readlines().decode('utf-8')
 	f.closed
 
