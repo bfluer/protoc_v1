@@ -10,7 +10,7 @@ def write_report(report):
 		fd.write(report.encode())
 
 with open(sys.argv[1], 'r') as f:
-	writingtext = f.readlines()
+	writingtext = f.readlines().decode('utf-8')
 	f.closed
 
 
