@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- coding: iso-8859-1 -*-
+# -*- coding: cp2352 -*-
 
 import sys
 
