@@ -8,8 +8,8 @@ Patient sitzend/stehend/liegend/gehend aufgefunden. Er gibt an, .. Beschwerden .
 
 Erstbeurteilung des Patienten:
 
-A: frei
-B: keine pathologischen Atemmuster, keine Atemger<usche, keine Zyanose
+A: frei // Teilbolus // Bolus
+B: keine pathologischen Atemmuster // Cheyne-Stokes // Biot // Kussmaul, keine Atemger<usche // Stridor, (keine) Zyanose
 C: RR: xxx/xx, P: xx , Hautfarbe ..., Rekapilarisierungszeit normal/verl<ngert xx Sec
 D: BZ: xxx, keine neurologischen Ausfallserscheinungen // Dreh-/Schwankschwindel // keine Par<sthesien // zeilich, >rtlich, zur Person und Situation orientiert
 Bewusstseinszustand:
