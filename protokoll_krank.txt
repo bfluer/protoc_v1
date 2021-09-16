@@ -1,20 +1,37 @@
-vorgefundene Lage:sitzend gehend stehend Rückenlage Seitenlage Bauchlage
-Allergien: Pollinose Laktoseintoleranz keine
-Vorerkrankungen: art. Hypertonie, Schilddrüsenunterfunktion, Diabetes Typ 1.2 Zn Myokardinfarkt xxxx, Zn Apoplex xxxx,
-laufende Medikation:
-Kollaps beobachtet:
+vorgefundene Lage: .. sitzend gehend stehend Rückenlage Seitenlage Bauchlage ..
+Allergien: .. Pollinose Laktoseintoleranz keine ..
+Vorerkrankungen: .. art. Hypertonie, Schilddrüsenunterfunktion, COPD, Diabetes Typ 1 od.2, Zn Myokardinfarkt ..Jahr.. , Zn Apoplex ..Jahr.. ..
+laufende Medikation: ..Concor, ThromboASS, Eliquis, Euthyrox..
+Kollaps beobachtet: ..ja nein..
 
-Patient sitzend/stehend/liegend , in allen Qualit<ten voll orientiert aufgefunden. Er gibt an, ...
+Patient sitzend/stehend/liegend/gehend aufgefunden. Er gibt an, .. Beschwerden ..
 
 Erstbeurteilung des Patienten:
 
 A: frei
 B: keine pathologischen Atemmuster, keine Atemger<usche, keine Zyanose
 C: RR: xxx/xx, P: xx , Hautfarbe ..., Rekapilarisierungszeit normal/verl<ngert xx Sec
-D: BZ: xxx, keine neurologischen Ausfallserscheinungen // Dreh-/Schwankschwindel // keine Par<sthesien
-E: T: xx,x Grad
+D: BZ: xxx, keine neurologischen Ausfallserscheinungen // Dreh-/Schwankschwindel // keine Par<sthesien // zeilich, örtlich, zur Person und Situation orientiert
+   Bewusstseinszustand:
+   zeitlich: orientiert // nicht orientiert
+   örtlich: orientiert // nicht orientiert
+   zur Person: orientiert // nicht orientiert
+   zur Situation: orientiert // nicht orientiert
+
+Patient .. kritisch/nicht kritisch ..
+
+E: T: xx,x Grad, EKG unauffällig//..Befund.. .. Angaben zur Situation, Anamnese, Arztbesuche in den letzten Tagen, etc ..
 
 L:
 E:
 
-Transport erfolgt mit v.a. xxx auf xxx ohne weitere Komplikationen.
+Transport erfolgt mit v.a. xxx
+in die LKI - Akutambulanz Traumatologie und Orthopädie -
+in die LKI - MZA Med Notfallaufnahme -
+in die LKI - MZA Neuro Notfallaufnahme -
+in die LKI - Notfallaufnahme Kinder- und Jugendheilkunde -
+
+ins BKH Schwaz - Medizin Ambulanz -
+ins BKH Schwaz - Unfall Ambulanuz -
+
+ohne weitere Komplikationen.
