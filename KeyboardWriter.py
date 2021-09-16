@@ -11,7 +11,7 @@ def write_report(report):
 		fd.write(report.encode())
 
 with open(sys.argv[1], 'r') as f:
-	writingtext = f.readlines()
+	writingtext = f.read().decode('utf-8').split('\n')
 	f.closed
 
 
@@ -65,7 +65,6 @@ scancodes_letters={
 sonderzeichen = {':','(',')','/'}
 
 for line in writingtext:
-	line.decode('utf-8')
 	for let in line:
 		write_report(NULL_CHAR*10)
 		if let.isupper() or let in sonderzeichen:
