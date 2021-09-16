@@ -66,7 +66,7 @@ sonderzeichen = {':','(',')','/'}
 
 for line in writingtext:
 	for let in line:
-		print let.encode('utf-8')
+		let.encode('utf-8')
 		write_report(NULL_CHAR*10)
 		if let.isupper() or let in sonderzeichen:
 			cod = scancodes_letters.get(let.lower(), 0)
