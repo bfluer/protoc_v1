@@ -4,14 +4,14 @@ Vorerkrankungen:
 laufende Medikation:
 Kollaps beobachtet:
 
-Patient xxx , in allen Qualitäten voll orientiert aufgefunden. Er gibt an, ...
+Patient xxx , in allen Qualit<ten voll orientiert aufgefunden. Er gibt an, ...
 
 Erstbeurteilung des Patienten:
 
 A: frei
-B: keine pathologischen Atemmuster, keine Atemgeräusche, keine Zyanose
-C: RR: xxx/xx, P: xx , Hautfarbe ..., Rekapilarisierungszeit normal/verlängert xx Sec
-D: BZ: xxx, keine neurologischen Ausfallserscheinungen // Dreh-/Schwankschwindel // keine Parästhesien
+B: keine pathologischen Atemmuster, keine Atemger<usche, keine Zyanose
+C: RR: xxx/xx, P: xx , Hautfarbe ..., Rekapilarisierungszeit normal/verl<ngert xx Sec
+D: BZ: xxx, keine neurologischen Ausfallserscheinungen // Dreh-/Schwankschwindel // keine Par<sthesien
 E: T: xx,x Grad
 
 L:
